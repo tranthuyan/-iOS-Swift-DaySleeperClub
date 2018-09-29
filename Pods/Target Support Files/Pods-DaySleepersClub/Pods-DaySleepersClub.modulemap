@@ -1,0 +1,6 @@
+framework module Pods_DaySleepersClub {
+  umbrella header "Pods-DaySleepersClub-umbrella.h"
+
+  export *
+  module * { export * }
+}
